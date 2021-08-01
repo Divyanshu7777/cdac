@@ -3,7 +3,7 @@ hello india compute
 
 //norm
 
-//making ahead
+//making
 
 test with branch
 test1
