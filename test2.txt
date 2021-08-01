@@ -4,7 +4,7 @@ hello india compute
 //norm
 
 merge conflict
-conflict check
+conflict
 
 test with branch
 test1

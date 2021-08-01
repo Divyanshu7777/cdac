@@ -6,7 +6,7 @@ test
 //normally
 
 //merge conflict
-//conflict check
+//conflict
 tesing with branch
 testing1
 testing 2
