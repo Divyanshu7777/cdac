@@ -3,7 +3,7 @@ hello india compute
 
 //norm
 
-//making ahead
+merge conflict
 
 test with branch
 test1
